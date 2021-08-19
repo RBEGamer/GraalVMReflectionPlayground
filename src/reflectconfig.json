@@ -1,0 +1,10 @@
+[
+  {
+    "name" : "com.sach.reflections.basics.InspectClass",
+    "allDeclaredFields": true
+  },
+  {
+    "name" : "com.sach.reflections.domain.User",
+    "allDeclaredFields": true
+  }
+]

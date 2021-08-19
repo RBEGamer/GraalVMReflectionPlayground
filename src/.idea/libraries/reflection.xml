@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="reflection">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/reflection.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
