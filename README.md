@@ -1,4 +1,4 @@
-# GraalVMJavaRefelctionExample
+# GraalVMJavaRefelctionPlayground
 
 This repository includes a example for a Java application using reflections, running inside of a GraalVM compiled into a native-image using the `ReflectionConfigurationFiles` option.
 
